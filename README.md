@@ -1,6 +1,6 @@
 # DTI Processing Platform
 
-![GitHub License](https://github.com/Mageshwar/dti-processing-platform/blob/main/LICENSE)
+![GitHub License](https://img.shields.io/github/license/Mageshwar/dti-processing-platform)
 
 A user-friendly, containerized platform to automate standard Diffusion Tensor Imaging (DTI) preprocessing pipelines for neuroimaging researchers.
 
